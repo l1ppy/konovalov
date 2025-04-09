@@ -1,0 +1,1 @@
+переделай код ниже под ту таблицу, sql-запрос который я тебе скину. Файл подключение к бд у меня db.php и используется mysqli, а не pdo (sql-запрос: INSERT INTO client (id_client, fio, number, email, pasport, login, password, avatar) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL))
